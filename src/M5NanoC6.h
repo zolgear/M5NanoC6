@@ -4,6 +4,8 @@
 #include "Arduino.h"
 #include "utility/Button_Class.hpp"
 
+#define M5NANO_C6_GROVE_IO1_PIN    1
+#define M5NANO_C6_GROVE_IO2_PIN    2
 #define M5NANO_C6_BLUE_LED_PIN     7
 #define M5NANO_C6_BTN_PIN          9
 #define M5NANO_C6_IR_TX_PIN        3
