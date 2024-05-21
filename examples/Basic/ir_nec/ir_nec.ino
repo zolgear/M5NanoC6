@@ -12,7 +12,7 @@
  * M5NanoC6: https://github.com/m5stack/M5NanoC6
  */
 
-#include "M5NanoC6.h"
+#include <M5NanoC6.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "freertos/queue.h"
