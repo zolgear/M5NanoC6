@@ -13,7 +13,7 @@
  * Adafruit_NeoPixel: https://github.com/adafruit/Adafruit_NeoPixel
  */
 
-#include "M5NanoC6.h"
+#include <M5NanoC6.h>
 #include <Adafruit_NeoPixel.h>
 
 #define NUM_LEDS 1
